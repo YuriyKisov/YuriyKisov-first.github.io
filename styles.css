@@ -1,0 +1,263 @@
+﻿body {
+	background-color:#ffffff; 
+	width: 1250px;
+	margin: 0 auto;
+}
+.head-container {
+	width: 50%;
+	height: 89px;
+	font-size: 0px;
+	display: inline-block;
+	box-sizing: border-box;
+	vertical-align: top;
+	margin: 0 auto;
+	margin-bottom: 0px;
+	padding: 0px;
+}
+.head-menu {
+	width: 100%;
+	height: 89px;
+	font-size: 0px;
+	box-sizing: border-box;
+	display: inline-block;
+	vertical-align: top;
+	margin: 0px;
+	padding: 0px;
+}
+.Koma {
+	margin-bottom: 21px;
+	font-size: 42px;
+	font-family: Calibri;
+}
+.Prechu {
+	width: 25%;
+	display: inline-block;
+	box-sizing: border-box;
+	vertical-align: middle;
+}
+.Prechu>h1 {
+	background-color: #4f95f3;
+	height: 44px;
+	width: 44px;
+	color: #ffffff;
+	border-radius: 50%;
+	margin-left: 145px;
+	margin-top: 24px;
+	font-family: Myanmar; 
+	font-size: 64px;
+	text-align: center;
+}
+.Prechu>p {
+	width: 120px;
+	margin-left: 35px;
+	margin-top: 19px;
+	margin-bottom: 36px;
+	color: #000000;
+	font-family: Calibri; 
+	font-size: 42px;
+}
+.Menu {
+	width: 357px;
+	margin-top: 37px;
+	margin-bottom: 25px;
+	margin-left: 60px;
+	font-size: 20px;
+	font-family: Calibri;
+} 
+li>a {
+	color: #6c6c6d;
+	padding: 6px;
+}
+.line {
+	background-color: #5094f2;
+	background-repeat: no-repeat;
+	width:87px;
+	height:3px;
+	margin-left: 160px;
+	vertical-align: bottom;
+	margin-top: 0;
+}
+.image-phone {
+	background-image:url(fon.png);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	height: 490px;
+	width: 1250px;
+	box-sizing: border-box;
+	font-size: 0;
+	box-sizing: border-box;
+	margin: 0 auto;
+}
+.container {
+	width: 50%;
+	display: inline-block;
+	float: left;
+}
+.container>img {
+	margin-top: 38px;
+	margin-left:177px;	
+}
+ul li {
+	display: inline;
+}
+a {
+	text-decoration: none;
+}
+.text {
+	width: 392px;
+	height: 112px;
+	margin-top: 153px;
+	color: #ffffff;
+	font-family: Calibri;
+	text-decoration: none;
+	line-height: 20px;
+}
+
+button {
+	border-radius: 5px;
+	border: 0px;
+	background-color: #4f95f3;
+    background-image:url(shape-2.png);
+    background-position: 6.4% 50%;
+    padding-right: 11px; 
+    background-repeat: no-repeat;
+	height: 41px;
+	width: 172px;
+}
+button>a {
+	font-family: Calibri;
+	font-size: 20px;
+	color: #ffffff;
+	padding-right: 11px;
+	padding-left: 44px;
+	padding-top: 12px;
+}
+p {
+	font-size: 26px;
+}
+.container>button {
+	margin-left: 12px;
+	margin-top: 36px; 
+}
+h1 {
+	font-size: 41px;
+	font-weight: 400;
+}
+.image-1	{
+	background-image:url(shape-3.png);
+	background-color: #4f95f3;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 186px;
+	width: 186px;
+	border-radius: 50%;
+	margin: 0 auto;
+	margin-top: 57px;
+}
+.text-1>h1 {
+	font-family: Calibri;
+	font-size: 20px;
+	text-align: center;
+	width: 166px;
+	color: #919191;
+	margin: 0 auto;
+	margin-top: 28px;
+}
+.text-1>p {
+	font-family: Calibri;
+	font-size: 14px;
+	text-align: center;
+	width: 248px;
+	color: #919191;
+	margin: 0 auto;
+	margin-top: 8px;
+}
+.text-1 {
+	margin: 0 auto;
+	width: 90%;
+}
+.image-2 {
+	background-image:url(shape-6.png);
+	background-color: #da4647;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 186px;
+	width: 186px;
+	border-radius: 50%;
+	margin: 0 auto;
+	margin-top: 57px;
+}
+.blok {
+	width: 33.33333%;
+	box-sizing: border-box;
+	display: inline-block;
+	font-size: 0;
+}
+.image-3 {
+	background-image:url(shape-5.png);
+	background-color: #ecbc08;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 186px;
+	width: 186px;
+	border-radius: 50%;
+	margin: 0 auto;
+	margin-top: 57px;
+}
+.blocks {
+	margin: 0 auto;
+	padding: 0px;
+	width: 1250px;
+	font-size: 0;
+}
+.down {
+	background-image:url(cart.png);
+	background-repeat: no-repeat;
+	height: 353px;
+	width: 371px;
+	margin-left: 159px;
+}
+.block-shop>div>p {
+	width: 451px;
+	font-size: 15px;
+	font-family: Calibri;
+	color: #919191;
+	line-height: 36px;
+	padding-top: 10px;
+}
+.block-shop {
+	width: 50%;
+	box-sizing: border-box;
+	display: inline-block;
+	float: left;
+}
+.blocks-down {
+	width: 1250px;
+	box-sizing: border-box;
+	display: inline-block;
+	margin: 0 auto;
+	margin-top: 94px;
+}
+.Shopping {
+	margin-left: 168px;
+	font-family: Calibri;
+	font-size: 42px;
+	width: 323px;
+	color: #707274;
+}
+.headtext>h1 {
+	margin-top: 77px;
+	width: 234px;
+	font-family: Calibri;
+	font-size: 26px;
+	color: #707274;
+}
+.Copyright>p {
+	width: 100%;
+	font-family: Calibri;
+	font-size: 15px;
+	line-height: 36px;
+	color: #919191;
+	margin-left: 453px;
+	margin-bottom: 45px;
+}
